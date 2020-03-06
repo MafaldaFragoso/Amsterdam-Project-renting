@@ -37,12 +37,14 @@ DATA CLEANING
 - Creating the columns price_€ (price_USD * exchange rate(0.895667))
 - Creating the columns price_€_accommodates (price_€ /accommodates)
 - remove outlier (price between 30 and 900
+
 DATA ANALYSIS
 - checking for the statistics module values
 - checking the Number of listings by neighbourhood
 - mapping all the listings
 - analysing the distribution number of accommodates
 - analysing the distribution of price by neighbourhood
+
 DATA MANIPULATION
 - create a function to select all the facilities needed in a radius of 250m
 - analyse a posible corrolation for price and facilities of each airbnb in the specific region
