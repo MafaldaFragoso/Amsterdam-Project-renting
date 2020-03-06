@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Short-term rentals in Amsterdam
 *Alessandro Mazzoni, Katja Galyuk, Mafalda Fragoso*
 
 *Ironhack, Amsterdam 6/03/2020*
