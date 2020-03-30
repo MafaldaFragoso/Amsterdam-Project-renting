@@ -3,7 +3,8 @@
 # Short-term rentals in Amsterdam
 *Alessandro Mazzoni, Katja Galyuk, Mafalda Fragoso*
 
-*Ironhack, Amsterdam 6/03/2020*
+*Ironhack Data Analytics Bootcamp*
+*Amsterdam 6/03/2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -15,10 +16,10 @@
 
 
 ## Project Description
-This is a group project at Ironhack Amsterdam,  the project intends to find if there is any correlation between the price of Airbnb and the number of restaurants and nightlife facilities. Our team will find the data frame online and retrieve useful information in order to answer this question.
+The project intends to find if there is any correlation between the price of Airbnb and the number of restaurants and nightlife facilities in close proximity.
 
 ## Questions & Hypotheses
-Our research question: "What is the impact of nearby bars and restaurants on the price of Airbnb in Amsterdam?". We do expect a correlation between the two, and to see that the more restaurants and bars surround an Airbnb the higher will be its price. WE also expect to find more restaurants and bars in the center of the city, which would be one of the factors that influence the higher price in the city center.
+Our research question: "What is the impact of nearby bars and restaurants on the price of Airbnb in Amsterdam?". We do expect a correlation between the two (the more restaurants and bars surround an Airbnb the higher will be its price). We also expect to find more restaurants and bars in the center of the city, which would be one of the factors that influence the higher price in the city center.
 
 ## Dataset
 - Listings of Airbnb rental apartments: Data obtained from Inside Airbnb website; Data in CSV format with detailed listings data for Amsterdam including price per night, latitude, longitude, among others
